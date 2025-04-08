@@ -1,4 +1,4 @@
-# multi-agent Retrieval-Augmented Generation (RAG) with Neo4j Knowledge Graph
+# Multi-agent Retrieval-Augmented Generation (RAG) with Neo4j Knowledge Graph
 
 A multi-agent Retrieval-Augmented Generation (RAG) system designed to analyze PDFs. This implementation uses a Neo4j knowledge graph database instead of FAISS for semantic storage and retrieval, powered by LLaMA 3 via Ollama, and features a Gradio-based UI. Developed and tested on Linux.
 
