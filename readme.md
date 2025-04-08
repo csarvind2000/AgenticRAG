@@ -26,11 +26,26 @@ A multi-agent Retrieval-Augmented Generation (RAG) system designed to analyze PD
 
 ## Output
 
+### Cleaned Data
+The Power to Surprise With an infinitely adaptable interior and easy access from every angle, the Carnival puts you in total control. It can take a large group of family or friends as far as the roads can reach, with ample space for adventures, tools, or furniture. From futuristic headlamps in the tiger-nose grille to dramatic rear tail lamps, the design is luxurious. Interior is only available in black + grey for Singapore. The quieter diesel engine offers significant fuel savings with improved cooling and reduced friction.
 
+### Analyzed Data
+The Kia Carnival features a versatile and spacious interior for up to 8 passengers, a luxurious design with LED lighting and a tiger-nose grille, and a fuel-efficient diesel engine with an 8-speed transmission. The interior, exclusive to black + grey in Singapore, emphasizes comfort and adaptability.
 
-    1. Cleaned Data: Text with noise removed.
-    2. Analyzed Data: Concise summary of key insights.
-    3. Chain-of-Thought Reasoning: Step-by-step reasoning.
-    4. Generated Questions: 3 relevant questions.
-    5. Answers: Responses using Neo4j-retrieved context.
+### Chain-of-Thought Reasoning
+1. The interior’s adaptability allows it to serve multiple purposes, from passenger transport to cargo storage.
+2. The design, with LED lights and a tiger-nose grille, positions it as a premium vehicle.
+3. The diesel engine’s efficiency stems from improved cooling and reduced friction, enhancing fuel savings.
+
+### Generated Questions
+- How does the diesel engine contribute to fuel efficiency?
+- What design elements make the Carnival luxurious?
+- Why is the interior color limited to black + grey in Singapore?
+
+### Answers
+**Q: How does the diesel engine contribute to fuel efficiency?**
+A: The diesel engine improves fuel efficiency through enhanced cooling and reduced friction, as noted in the brochure, paired with an 8-speed transmission for smoother gear changes.
+
+**Q: What design elements make the Carnival luxurious?**
+A: The Carnival’s luxurious design includes futuristic headlamps embedded in the tiger-nose grille and dramatic rear tail lamps, creating a premium aesthetic.
 
