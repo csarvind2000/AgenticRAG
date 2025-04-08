@@ -1,0 +1,7 @@
+langchain==0.2.0
+langgraph==0.0.24
+langchain-community==0.2.0
+gradio==4.28.3
+sentence-transformers==2.7.0
+PyPDF2==3.0.1
+neo4j==5.19.0
